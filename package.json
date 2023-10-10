@@ -1,0 +1,10 @@
+{
+    "name": "projetoblackbelt",
+    "version": "1.0.0",
+    "description": "Descrição do seu aplicativo",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {}
+  }
+  
